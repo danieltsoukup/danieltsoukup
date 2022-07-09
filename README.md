@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **danieltsoukup/danieltsoukup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm a Senior Educator at [BrainStation](https://brainstation.io/), teaching the full-time data science program and developing new course content. Previously, I was working on problems in data privacy, fairness in ML and building new generative models that produce the safest and most accurate synthetic data from complex data sources, such as mobility data. I have experience in various machine learning and deep learning frameworks, NLP methodology and have plenty of coding under my belt in Python. 
+
+- [LinkedIn](https://www.linkedin.com/in/danieltsoukup/) - reach out here to chat 💬
+- [Website](https://danieltsoukup.github.io/) - more about my previous work 🤔
