@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 
 I'm a Senior Educator at [BrainStation](https://brainstation.io/), teaching the full-time data science program and developing new course content. Previously, I was working on problems in data privacy, fairness in ML and building new generative models that produce the safest and most accurate synthetic data from complex data sources, such as mobility data. I have experience in various machine learning and deep learning frameworks, NLP methodology and have plenty of coding under my belt in Python. 
 
+I did my PhD at the University of Toronto and my following research was centred around understanding large, seemingly random and chaotic abstract mathematical objects. How do local and global properties of certain structures interact and affect each other? Can a large network be sparse and highly connected at the same time? I have been focusing on such questions in graph theory, logic and combinatorics. 
+
 - [LinkedIn](https://www.linkedin.com/in/danieltsoukup/) - reach out here to chat 💬
 - [Website](https://danieltsoukup.github.io/) - more about my previous work 🤔
