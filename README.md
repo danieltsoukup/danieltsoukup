@@ -22,5 +22,6 @@ I'm a Senior Educator at [BrainStation](https://brainstation.io/), teaching the 
 
 I did my PhD at the University of Toronto and my following research was centred around understanding large, seemingly random and chaotic abstract mathematical objects. How do local and global properties of certain structures interact and affect each other? Can a large network be sparse and highly connected at the same time? I have been focusing on such questions in graph theory, logic and combinatorics. [Click for math publications here](https://danieltsoukup.github.io/academic/pub.xhtml).
 
+Further points of contact:
 - [LinkedIn](https://www.linkedin.com/in/danieltsoukup/) - reach out here to chat 💬
 - [Website](https://danieltsoukup.github.io/) - more about my previous work 🤔
