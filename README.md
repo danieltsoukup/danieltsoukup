@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm a Lead Educator at [BrainStation](https://brainstation.io/), coordinating the delivery and content development of the full-time data science program. Previously, I was working on problems in data privacy, fairness in ML and building new generative models that produce the safest and most accurate synthetic data from complex data sources, such as mobility data. I have experience in various machine learning and deep learning frameworks, NLP methodology and have plenty of coding under my belt in Python. 
+I'm a Lead Educator & Team Lead at [BrainStation](https://brainstation.io/), coordinating the delivery and content development of the full-time data science program. Previously, I was working on problems in data privacy, fairness in ML and building new generative models that produce the safest and most accurate synthetic data from complex data sources, such as mobility data. I have experience in various machine learning and deep learning frameworks, NLP methodology and have plenty of coding under my belt in Python. 
 
 - [Representative & Fair Synthetic Data](https://arxiv.org/abs/2104.03007) by Paul Tiwald, Alexandra Ebert & Daniel T. Soukup. Accepted as [ICLR 2021 workshop paper](https://sdg-quality-privacy-bias.github.io/).
 
