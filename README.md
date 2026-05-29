@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Technical Lead at [Zinkworks](https://zinkworks.com/) driving Python and Gen AI application architecture and development for telco's and financial instutions to modernize legacy systems and automate complex operations. 
+I'm a Technical Lead at [Zinkworks](https://zinkworks.com/) driving Python and Gen AI application architecture and development for telco's and financial institutions to modernize legacy systems and automate complex operations. 
 
 Previously, I worked as
 - a Sr. Software Architect & Team Lead for the Data Science & Engineering team at [Konrad](https://www.konrad.com/) helping our clients mature core data capabilities, create new data-driven products, and find actual value creation opportunities using AI;
