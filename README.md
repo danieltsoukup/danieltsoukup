@@ -15,8 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm a Technical Lead at [Zinkworks](https://zinkworks.com/) driving Python and Gen AI application architecture and development for telco's and financial instutions to modernize legacy systems and automate complex operations. 
 
-I'm a Sr. Software Architect & Team Lead for the Data Science & Engineering team at [Konrad](https://www.konrad.com/) helping our clients mature core data capabilities, create new data-driven products, and find actual value creation opportunities using AI. Previously, I was working as a Lead Educator & Team Lead at [BrainStation](https://brainstation.io/) and as a data scientist at [mostly.ai](https://mostly.ai/) on problems in data privacy, fairness in ML and building new generative models that produce the safest and most accurate synthetic data from complex data sources, such as mobility data. I have experience in various machine learning and deep learning frameworks, NLP methodology and have plenty of coding under my belt in Python. 
+Previously, I worked as
+- a Sr. Software Architect & Team Lead for the Data Science & Engineering team at [Konrad](https://www.konrad.com/) helping our clients mature core data capabilities, create new data-driven products, and find actual value creation opportunities using AI;
+- a Lead Educator & Team Lead at [BrainStation](https://brainstation.io/);
+- a data scientist at [mostly.ai](https://mostly.ai/) on problems in data privacy, fairness in ML, and building new generative models that produce the safest and most accurate synthetic data from complex data sources, such as mobility data.
+
+I have experience in various machine learning and deep learning frameworks, NLP methodology and have plenty of coding under my belt in Python. 
 
 - [Representative & Fair Synthetic Data](https://arxiv.org/abs/2104.03007) by Paul Tiwald, Alexandra Ebert & Daniel T. Soukup. Accepted as [ICLR 2021 workshop paper](https://sdg-quality-privacy-bias.github.io/).
 - [Patent on Synthetsizing Mobility Traces](https://worldwide.espacenet.com/patent/search/family/074285278/publication/US2022237522A1?q=pn%3DUS2022237522A1) with Klaudius Kalcher and Michael Platzer from 2022.
